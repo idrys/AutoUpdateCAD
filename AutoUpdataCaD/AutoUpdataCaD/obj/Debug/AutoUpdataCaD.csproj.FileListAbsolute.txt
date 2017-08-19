@@ -1,0 +1,7 @@
+Y:\Dysk Google\Projects\AutoUpdateCAD\AutoUpdataCaD\AutoUpdataCaD\bin\Debug\AutoUpdataCaD.exe.config
+Y:\Dysk Google\Projects\AutoUpdateCAD\AutoUpdataCaD\AutoUpdataCaD\obj\Debug\AutoUpdataCaD.csprojResolveAssemblyReference.cache
+Y:\Dysk Google\Projects\AutoUpdateCAD\AutoUpdataCaD\AutoUpdataCaD\bin\Debug\AutoUpdataCaD.exe
+Y:\Dysk Google\Projects\AutoUpdateCAD\AutoUpdataCaD\AutoUpdataCaD\bin\Debug\AutoUpdataCaD.pdb
+Y:\Dysk Google\Projects\AutoUpdateCAD\AutoUpdataCaD\AutoUpdataCaD\bin\Debug\SevenZipExtractor.dll
+Y:\Dysk Google\Projects\AutoUpdateCAD\AutoUpdataCaD\AutoUpdataCaD\obj\Debug\AutoUpdataCaD.exe
+Y:\Dysk Google\Projects\AutoUpdateCAD\AutoUpdataCaD\AutoUpdataCaD\obj\Debug\AutoUpdataCaD.pdb
